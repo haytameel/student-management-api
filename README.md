@@ -13,7 +13,7 @@ This is a simple RESTful API for managing student data, built with Spring Boot a
 ## Technologies Used
 
 - **Java 17**
-- **Spring Boot 3.x**
+- **Spring Boot 3.3.3**
 - **Spring Data JPA** for data persistence
 - **Hibernate** as the JPA implementation
 - **PostgreSQL** as the relational database management system
