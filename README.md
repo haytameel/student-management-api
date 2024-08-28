@@ -25,7 +25,7 @@ This is a simple RESTful API for managing student data, built with Spring Boot a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/student-management-api.git
+    git clone https://github.com/haytameel/student-management-api.git
     cd student-management-api
     ```
 
